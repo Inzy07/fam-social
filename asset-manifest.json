@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.js": "/Inzy07/fam-social/static/js/main.00947ec6.chunk.js",
-    "main.js.map": "/Inzy07/fam-social/static/js/main.00947ec6.chunk.js.map",
-    "runtime~main.js": "/Inzy07/fam-social/static/js/runtime~main.3857f938.js",
-    "runtime~main.js.map": "/Inzy07/fam-social/static/js/runtime~main.3857f938.js.map",
-    "static/css/2.0e17aa85.chunk.css": "/Inzy07/fam-social/static/css/2.0e17aa85.chunk.css",
-    "static/js/2.617540db.chunk.js": "/Inzy07/fam-social/static/js/2.617540db.chunk.js",
-    "static/js/2.617540db.chunk.js.map": "/Inzy07/fam-social/static/js/2.617540db.chunk.js.map",
-    "index.html": "/Inzy07/fam-social/index.html",
-    "precache-manifest.e8f34425606af591e4e1f28289a65b98.js": "/Inzy07/fam-social/precache-manifest.e8f34425606af591e4e1f28289a65b98.js",
-    "service-worker.js": "/Inzy07/fam-social/service-worker.js",
-    "static/css/2.0e17aa85.chunk.css.map": "/Inzy07/fam-social/static/css/2.0e17aa85.chunk.css.map",
-    "static/media/blueprint-icons.css": "/Inzy07/fam-social/static/media/blueprint-icons-20.ba184ac3.ttf"
+    "main.js": "/fam-social/static/js/main.00947ec6.chunk.js",
+    "main.js.map": "/fam-social/static/js/main.00947ec6.chunk.js.map",
+    "runtime~main.js": "/fam-social/static/js/runtime~main.bbc9c716.js",
+    "runtime~main.js.map": "/fam-social/static/js/runtime~main.bbc9c716.js.map",
+    "static/css/2.32141ae6.chunk.css": "/fam-social/static/css/2.32141ae6.chunk.css",
+    "static/js/2.fd3d1deb.chunk.js": "/fam-social/static/js/2.fd3d1deb.chunk.js",
+    "static/js/2.fd3d1deb.chunk.js.map": "/fam-social/static/js/2.fd3d1deb.chunk.js.map",
+    "index.html": "/fam-social/index.html",
+    "precache-manifest.cde17ac67b5364cfb30ae429083df8cf.js": "/fam-social/precache-manifest.cde17ac67b5364cfb30ae429083df8cf.js",
+    "service-worker.js": "/fam-social/service-worker.js",
+    "static/css/2.32141ae6.chunk.css.map": "/fam-social/static/css/2.32141ae6.chunk.css.map",
+    "static/media/blueprint-icons.css": "/fam-social/static/media/blueprint-icons-20.ba184ac3.ttf"
   }
 }
